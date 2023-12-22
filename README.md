@@ -1,13 +1,5 @@
 # React_app
 
-## code optimization Tips
-
-```javascript
-// Your JavaScript code here
-This is `inline code`.
-
-# Main Title
-
 ## Subheading
 
 - Item 1
@@ -17,8 +9,6 @@ This is `inline code`.
 [Visit Google](https://www.google.com)
 
 ![Logo](https://example.com/logo.png)
-
-```
 
 _italic_ or _italic_
 **bold** or **bold**
