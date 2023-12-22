@@ -2,12 +2,13 @@
 
 ## code optimization Tips
 
-```javascript
+- props 1 - 1 object
+
+<!--
 // Your JavaScript code here
 This is `inline code`.
 
 # Main Title
-```
 
 ## Subheading
 
@@ -26,8 +27,4 @@ _italic_ or _italic_
 | -------- | -------- |
 | Cell 1   | Cell 2   |
 
-> This is a block quote.
-
-```
-
-```
+> This is a block quote. -->
